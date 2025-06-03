@@ -19,15 +19,15 @@
 ---
 ### 🧠 About Me
 
-💼 I specialize in designing, developing, and deploying automation solutions using:
+I specialize in designing, developing, and deploying automation solutions using:
 
-✅ UiPath (REFramework, Orchestrator, Document Understanding)
-
-✅ Microsoft Power Platform (Power Automate, Power Apps, AI Builder)
-
-✅ Workflow optimization & digital transformation
-
-✅ Business process analysis & scalable RPA architecture
+  ✅ UiPath (REFramework, Orchestrator, Document Understanding)
+  
+  ✅ Microsoft Power Platform (Power Automate, Power Apps, AI Builder)
+  
+  ✅ Workflow optimization & digital transformation
+  
+  ✅ Business process analysis & scalable RPA architecture
 
 ---
 ### 🛠️ Tools
@@ -50,11 +50,11 @@ More projects coming soon. Stay tuned! 🔧
 
 ---
 ### 🧠 Certifications
-UiPath Advanced Developer Certification 🥇
-
-Microsoft Certified: Power Platform Fundamentals 🎓
-
-Automation Anywhere RPA Essentials 🎯
+  UiPath Advanced Developer Certification 🥇
+  
+  Microsoft Certified: Power Platform Fundamentals 🎓
+  
+  Automation Anywhere RPA Essentials 🎯
 
 ---
 ### ⚡ Fun Fact
