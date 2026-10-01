@@ -212,3 +212,102 @@ I'm particularly interested in designing systems that combine:
                │
                ▼
        Production System
+```
+
+Areas of interest:
+
+- System Design
+- AI Architecture
+- API Architecture
+- Enterprise Integration
+- Cloud Architecture
+- Microservices
+- Authentication & Authorization
+- Event-driven Architecture
+- Observability
+- Scalability
+- Security
+
+---
+
+# 🎯 Career Direction
+
+I'm working toward becoming a **Forward Deployed Engineer / AI Solutions Engineer**, combining my enterprise automation experience with modern software engineering and AI.
+
+```text
+RPA
++
+AI
++
+Full Stack
++
+Cloud
++
+Enterprise Integration
+        ↓
+Forward Deployed Engineering
+```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AchalSharma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchalSharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+
+<img src="https://streak-stats.demolab.com/?user=AchalSharma&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/achal-sharma-84b380166/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:achalsharma0113@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AchalSharma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+I'm interested in connecting with people working in:
+
+**AI • Automation • RPA • Full-Stack Development • Generative AI • Cloud • Agentic AI • Enterprise Technology**
+
+---
+
+# ⚡ Fun Fact
+
+💻 **Coder by day**  
+🎮 **Gamer by night**  
+🤖 **Building AI solutions in between**
+
+---
+
+## 🚀 Currently
+
+**Learning → Building → Deploying → Sharing**
