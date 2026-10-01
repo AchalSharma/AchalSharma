@@ -1,79 +1,214 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achalsharma&label=Profile%20views&color=0e75b6&style=flat" alt="achalsharma" /> </p>
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner-image.gif" alt="Banner" width="100%" />
+# 👋 Hi, I'm Achal Sharma
+
+## 🚀 RPA Developer → AI & Full-Stack Engineer → Future FDE
+
+I'm an **RPA Developer with 7+ years of experience** building enterprise automation and digital transformation solutions using **UiPath, Microsoft Power Platform, and intelligent document processing**.
+
+I'm currently expanding my expertise into **AI Engineering, Full-Stack Development, Cloud, and Solution Architecture**, with a focus on building practical AI-powered solutions for real-world business problems.
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔹 7+ years of experience in **RPA & Intelligent Automation**
+- 🤖 Experienced with **UiPath, Power Automate & Power Apps**
+- 📄 Experience with **Document Understanding & AI-powered document processing**
+- ⚙️ Experience building enterprise automation workflows and solutions
+- 🔗 Experience with **APIs, SQL, SharePoint, Dataverse and enterprise integrations**
+- 🧠 Currently exploring **LLMs, Generative AI, RAG & Agentic AI**
+- 💻 Learning **Python, TypeScript, React, Next.js & FastAPI**
+- 🗄️ Working with **PostgreSQL, SQL & databases**
+- ☁️ Exploring **AWS, Azure & Cloud Architecture**
+- 🐳 Learning **Docker, CI/CD & cloud deployment**
+- 🎯 Working toward a career in **AI / Full-Stack / Forward Deployed Engineering**
+
+---
+
+# 🛠️ Tech Stack
+
+## 🤖 RPA & Automation
+
+<p align="left">
+
+<a href="https://www.uipath.com/">
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-automate">
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-apps">
+<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
+</a>
+
+<a href="https://www.automationanywhere.com/">
+<img src="https://img.shields.io/badge/Automation%20Anywhere-FF6B00?style=for-the-badge"/>
+</a>
+
 </p>
 
-<h1 align="center">👋 Hello! I'm Achal Sharma</h1>
+**Experience:**
 
-<h3 align="center">
-  🚀 RPA Developer | 🤖 Automation Enthusiast | 🌍 Based in India  
-</h3>
+`UiPath` `UiPath Orchestrator` `Document Understanding` `Action Center` `Power Automate` `Power Automate Desktop` `Power Apps` `AI Builder` `Automation Anywhere`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/achal-sharma-84b380166/"><img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" height="80" width="auto"/></a>
-  <a href="https://github.com/AchalSharma"><img src="https://www.pngmart.com/files/23/Github-Logo-PNG.png" height="80" width="auto"/></a>
-  <a href="mailto:achalsharma0113@gmail.com"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" height="80" width="auto"/></a>
+---
+
+## 🧠 AI & Generative AI
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Claude-AI-CC785C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLM%20Applications-5C2D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-00897B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge"/>
+
 </p>
 
----
-### 🧠 About Me
+**Currently exploring:**
 
-I specialize in designing, developing, and deploying automation solutions using:
-
-  ✅ UiPath (REFramework, Orchestrator, Document Understanding)
-  
-  ✅ Microsoft Power Platform (Power Automate, Power Apps, AI Builder)
-  
-  ✅ Workflow optimization & digital transformation
-  
-  ✅ Business process analysis & scalable RPA architecture
+`LLMs` `RAG` `AI Agents` `Tool Calling` `MCP` `Structured Outputs` `AI Workflows` `Document AI` `Agentic AI`
 
 ---
-### 🛠️ Tools
 
-<p align="center"> <img src="https://www.uipath.com/hubfs/ui_path_Logo_EXTRALARGE_rgb_Orange_digital_3261x1200@2x.png" height="80" width="auto"/> <img src="https://roommanager.com/wp-content/uploads/2023/03/Power-Automate-Logo.png" height="80" width="auto"/> <img src="https://reset.nl/wp-content/uploads/2020/12/powerapps-1.png" height="80" width="auto"/> <img src="https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook" height="80" width="auto"/></p>
+# 💻 Programming & Full-Stack
 
-### 🤖Tech Stack
+## 🐍 Python
 
----
-### 📂 Featured Projects
+<p align="left">
 
-| 🔧 Project Name          | 🚀 Tech Stack               | 📄 Description                                                                        |
-| ------------------------ | --------------------------- | ------------------------------------------------------------------------------------- |
-| Smart Invoice Extractor  | UiPath + DU                 | Intelligent invoice parser using Document Understanding.                              |
-| Power Approval Flow      | Power Automate + Power Apps | Custom approval system integrated with Teams and SharePoint.                          |
-| Automated Onboarding Bot | UiPath                      | End-to-end HR onboarding automation including email, file handling, and data updates. |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-More projects coming soon. Stay tuned! 🔧
+</p>
 
----
-### 🧠 Certifications
-  UiPath Advanced Developer Certification 🥇
-  
-  Microsoft Certified: Power Platform Fundamentals 🎓
-  
-  Automation Anywhere RPA Essentials 🎯
+Learning and building with:
+
+`Python` `FastAPI` `REST APIs` `Pydantic` `SQLAlchemy` `pytest` `Async Programming`
 
 ---
-### ⚡ Fun Fact
 
-“Automation doesn't replace people — it elevates them.”
+## 🌐 Frontend
 
-<p align="center"> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px"/> </p>
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+
+</p>
+
+**Stack:**
+
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
 
 ---
-### 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+# 🗄️ Database
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/>
+
+</p>
+
+`PostgreSQL` `SQL Server` `MySQL` `SQL` `Database Design` `Query Optimization`
 
 ---
-### 🌐 Let's Connect!
 
-I'm always up for collaboration and exploring new tech.
-Feel free to connect with me or drop a message. Let's automate something awesome! 🤝
+# ☁️ Cloud & Infrastructure
 
-<p align="center"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px"> </p>
+## Microsoft Azure
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
 
+`Azure` `Azure PostgreSQL` `Azure Key Vault` `Azure Container Apps` `Managed Identity` `Private Networking`
+
+## AWS
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
+
+Currently exploring:
+
+`AWS` `EC2` `S3` `RDS` `Lambda` `IAM` `CloudWatch` `ECS` `API Gateway` `VPC`
+
+---
+
+# 🐳 DevOps & Development Tools
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+
+</p>
+
+`Git` `GitHub` `Docker` `CI/CD` `GitHub Actions` `REST APIs` `Environment Management`
+
+---
+
+# 📊 Data & Analytics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-117865?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</p>
+
+`Power BI` `Power Query` `BigQuery` `SQL` `Data Analysis`
+
+---
+
+# 🏗️ Architecture & Engineering
+
+I'm particularly interested in designing systems that combine:
+
+```text
+        Business Problem
+               │
+               ▼
+        Process Analysis
+               │
+               ▼
+        Solution Design
+               │
+       ┌───────┴────────┐
+       ▼                ▼
+   AI / LLM          Automation
+       │                │
+       └───────┬────────┘
+               ▼
+         Full-Stack App
+               │
+               ▼
+          Cloud / APIs
+               │
+               ▼
+       Production System
